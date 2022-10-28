@@ -1,5 +1,5 @@
 ## Para roda o programa no terminal
-basta os comandos:
+basta os comandos:</br>
 g++ Busca\ binaria.c -o saida
 ./saida "O CEP desejado"
 
